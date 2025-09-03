@@ -27,7 +27,6 @@ void main() {
   print("Umfang: ${r1.calculateCircumference()}");
   print("Fläche: ${r1.calculateArea()}");
   print("");
-  
   r1.scale(2);
   print("Nach Skalierung:");
   print("Umfang: ${r1.calculateCircumference()}");
