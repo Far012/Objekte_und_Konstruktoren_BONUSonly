@@ -1,10 +1,10 @@
 class Button {
-  final String label;
-  final double width;
-  final double height;
-  final double radius;
-  final double fontSize;
-  final double padding;
+  String label;
+  double width;
+  double height;
+  double radius;
+  double fontSize;
+  double padding;
 
   Button(
     this.label, {             // positioned Paramenter
@@ -18,12 +18,12 @@ class Button {
 
 // mit Standartwerte
 class ButtonMitStdWerte {
-  final String label;
-  final double width;
-  final double height;
-  final double radius;
-  final double fontSize;
-  final double padding;
+  String label;
+  double width;
+  double height;
+  double radius;
+  double fontSize;
+  double padding;
 
   ButtonMitStdWerte(
     this.label, {             // positioned Paramenter
